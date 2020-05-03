@@ -1,0 +1,8 @@
+Modify the justify program of section 15.3 by rewriting line.c file so that
+it sotres the current line in a linked list. Each node in the list will
+store a single word. The linr array will be replaced by a pointer variable
+that points to the node containing the first word. This variable will store
+a null pointer whenever the line is empty.
+
+
+I DID NOT DO THIS...IT IS UNMODIFIED.
